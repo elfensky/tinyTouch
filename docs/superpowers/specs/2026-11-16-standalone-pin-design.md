@@ -1,6 +1,6 @@
 # Stand-alone PIN mode: a tinyTouch reader for Windows
 
-Status: approach approved by Andrei on 2026-11-16. Builder check done; Andrei's answers are in. Awaiting approval.
+Status: approved by Andrei on 2026-11-16, after a builder check. Next: checklist step 0 on the HYTE, then the implementation plan.
 
 ## Intent
 
